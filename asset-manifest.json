@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/corona-tracker/static/css/main.3451145f.chunk.css",
+    "main.js": "/corona-tracker/static/js/main.da3f5ce7.chunk.js",
+    "main.js.map": "/corona-tracker/static/js/main.da3f5ce7.chunk.js.map",
+    "runtime-main.js": "/corona-tracker/static/js/runtime-main.31b6e497.js",
+    "runtime-main.js.map": "/corona-tracker/static/js/runtime-main.31b6e497.js.map",
+    "static/js/2.bbdff6c0.chunk.js": "/corona-tracker/static/js/2.bbdff6c0.chunk.js",
+    "static/js/2.bbdff6c0.chunk.js.map": "/corona-tracker/static/js/2.bbdff6c0.chunk.js.map",
+    "index.html": "/corona-tracker/index.html",
+    "precache-manifest.e3b35f18e7e2345421032f878fea563d.js": "/corona-tracker/precache-manifest.e3b35f18e7e2345421032f878fea563d.js",
+    "service-worker.js": "/corona-tracker/service-worker.js",
+    "static/css/main.3451145f.chunk.css.map": "/corona-tracker/static/css/main.3451145f.chunk.css.map",
+    "static/js/2.bbdff6c0.chunk.js.LICENSE.txt": "/corona-tracker/static/js/2.bbdff6c0.chunk.js.LICENSE.txt",
+    "static/media/covid19.jpg": "/corona-tracker/static/media/covid19.e5a2ad75.jpg",
+    "static/media/india.jpg": "/corona-tracker/static/media/india.7f263f20.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31b6e497.js",
+    "static/js/2.bbdff6c0.chunk.js",
+    "static/css/main.3451145f.chunk.css",
+    "static/js/main.da3f5ce7.chunk.js"
+  ]
+}
