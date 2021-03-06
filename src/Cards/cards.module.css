@@ -1,0 +1,109 @@
+.active{
+color: goldenrod !important; 
+font-weight: bolder;       
+}
+.deaths{
+color: orangered !important; 
+font-weight: bolder;      
+}
+.recovered{
+color: limegreen !important; 
+font-weight: bolder;          
+}
+.confirmed{
+color: dodgerblue !important;
+font-weight: bolder;        
+}  
+.titleDisplayer{         
+    font-family: 'Piedra', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+    color:#6c757d  
+}
+.caseText{
+    font-weight: bolder;
+    color:#6c757d !important;
+}
+.cardDisplay{
+    width: 54%;        
+}
+.individualContent{
+    display: inline-grid;
+    margin:3% !important;    
+}
+.noShadow{
+    box-shadow: none !important;
+}
+.imageDisplayer{
+    width:50%
+}
+.time{
+    font-family: 'Piedra', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+    color:#6c757d;   
+}
+.headerContainer{
+    display:flex;
+    flex-direction:row;
+}
+.headerTextContainer{
+    width: 100%;
+    padding: 2% 0%;
+}
+.imageStyle{
+    height:30vh;
+}
+@media only screen and (max-width: 800px){
+    .active{
+        color: goldenrod !important; 
+        font-weight: bolder;       
+        }
+        .deaths{
+        color: orangered !important; 
+        font-weight: bolder;      
+        }
+        .recovered{
+        color: limegreen !important; 
+        font-weight: bolder;          
+        }
+        .confirmed{
+        color: dodgerblue !important;
+        font-weight: bolder;        
+        }    
+        .titleDisplayer{           
+            padding-top: 2%; 
+            font-family: 'Piedra', cursive;
+            font-family: 'Poppins', sans-serif;
+            font-family: 'Source Code Pro', monospace;   
+            color:#6c757d    
+        }
+        .cardDisplay{
+            width: auto;    
+            padding-left: 10%;            
+        }
+        .individualContent{
+            display: inline-block;
+            padding:5% !important;    
+        }
+        .imageDisplayer{
+            width:50%
+        }
+        .time{
+            font-family: 'Piedra', cursive;
+            font-family: 'Poppins', sans-serif;
+            font-family: 'Source Code Pro', monospace;
+            color:#6c757d;
+        }
+        .headerContainer{           
+            flex-direction:column;
+        }
+        .imageStyle{
+            height:22vh;
+            padding:0% 50% 0% 60%
+        }
+        .headerTextContainer{
+            width: 100%;
+            padding: 0% 0%;
+        }
+  }

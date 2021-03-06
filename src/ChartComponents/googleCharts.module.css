@@ -1,0 +1,73 @@
+.lineChartDimension{
+    height:50%;   
+    width:40%;
+    margin-top: 2%;
+}
+.pieChartDimension{
+    height:50%;    
+    width:50%;
+    margin-top: 2%;
+}
+.apexLineChartDimension{
+    height:auto;     
+    width:40%;
+    margin-top: 2%;
+    padding-left: 2%;
+    padding-right: 1%;
+}
+.tableContainer{
+    width:54% !important;
+    margin:2% !important;
+    max-height: 60vh;
+}
+th{
+    box-shadow: 1px 0px 1px 0px #d3d3d3;
+}
+.table{
+    width:54% !important;  
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(207,127,127,1) 50%, rgba(49,61,128,1) 100%); 
+}
+.donutChart{
+    height:auto;     
+    width:auto;
+    margin-top: 5.4%;   
+    padding-right: 1%;
+    text-align:-webkit-center;
+}
+@media only screen  and (max-width:800px){
+    .lineChartDimension{
+        height:auto;
+        width:auto;    
+        margin-top: 2%;   
+    }
+    .pieChartDimension{
+        height:auto;
+        width:auto; 
+        margin-top: 2%;       
+    }
+    .apexLineChartDimension{
+        height:auto;             
+        width:auto;
+        margin-top: 2%;   
+        padding-left: 2%;  
+        padding-right: 2%; 
+    } 
+    .tableContainer{
+        width:auto !important;
+        margin:2% !important;
+        max-height: 35vh;       
+    }
+    .table{
+        width:auto !important
+    }
+    .donutChart{
+        height:auto;             
+        width:auto;
+        margin-top: 2%;   
+        padding-left: 2%;  
+        padding-right: 2%;       
+    }   
+  }  
+
+
